@@ -1,0 +1,27 @@
+{
+  "name": "session-sails",
+  "version": "1.0.0",
+  "description": "A Sails Waterline session store for Express and Connect.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arccoza/session-sails.git"
+  },
+  "keywords": [
+    "sails",
+    "waterline",
+    "session",
+    "store",
+    "express",
+    "connect"
+  ],
+  "author": "Adrien de Pierres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arccoza/session-sails/issues"
+  },
+  "homepage": "https://github.com/arccoza/session-sails#readme"
+}
